@@ -3,6 +3,12 @@
 ## Overview
 This document defines the structured lifecycle management process for all prompts within the Central Controlled Prompt Repository (CCPR), ensuring quality, compliance, and traceability throughout the prompt development process.
 
+> **Implementation Note**: This lifecycle represents a comprehensive example framework. Organizations should adapt the complexity and requirements to match their implementation tier:
+> - **Tier 1 (Basic)**: Use simplified draft → review → approved stages with basic documentation
+> - **Tier 2 (Intermediate)**: Include formal review processes with documented approvals
+> - **Tier 3 (Advanced)**: Implement comprehensive quality gates and compliance checks
+> - **Tier 4 (Expert)**: Deploy full enterprise lifecycle with automated monitoring and governance
+
 ## Lifecycle Stages
 
 ### 1. Draft Stage

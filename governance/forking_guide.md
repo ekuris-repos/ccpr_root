@@ -3,6 +3,12 @@
 ## Overview
 This guide provides comprehensive instructions for creating and managing departmental forks of the Central Controlled Prompt Repository (CCPR), enabling teams to define role-specific standards while maintaining enterprise compliance and governance.
 
+> **Implementation Note**: This forking strategy represents an advanced example for organizations with multiple departments requiring customized prompt management. Adapt the complexity to match your implementation tier:
+> - **Tier 1 (Basic)**: Single repository with basic folder organization by team
+> - **Tier 2 (Intermediate)**: Department-specific branches within main repository
+> - **Tier 3 (Advanced)**: Formal forking strategy with merge procedures
+> - **Tier 4 (Expert)**: Comprehensive multi-repository federation with automated synchronization
+
 ## Purpose of Forking
 
 ### Departmental Autonomy

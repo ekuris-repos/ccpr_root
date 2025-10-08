@@ -3,6 +3,12 @@
 ## Overview
 Payment Card Industry Data Security Standard compliance for organizations handling cardholder data.
 
+> **Implementation Note**: This PCI-DSS compliance framework is a specialized example for organizations handling payment card data. Only implement if your organization is subject to PCI-DSS requirements. Adapt the complexity to match your implementation tier:
+> - **Tier 1 (Basic)**: Simple guidelines to avoid cardholder data in prompts
+> - **Tier 2 (Intermediate)**: PCI-DSS-aware prompt review process with data detection
+> - **Tier 3 (Advanced)**: Formal PCI-DSS compliance verification in prompt lifecycle
+> - **Tier 4 (Expert)**: Comprehensive PCI-DSS compliance with automated cardholder data detection and protection
+
 ## Scope of Application
 - Merchants accepting card payments
 - Payment processors

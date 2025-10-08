@@ -3,6 +3,12 @@
 ## Purpose
 Establish comprehensive access control framework to protect organizational resources and ensure appropriate access permissions.
 
+> **Implementation Note**: This access control policy represents a comprehensive example for enterprise environments. Organizations should adapt the complexity to match their implementation tier and only if access control requirements apply to their use case:
+> - **Tier 1 (Basic)**: Simple read/write permissions with basic user roles
+> - **Tier 2 (Intermediate)**: Role-based access with approval workflows
+> - **Tier 3 (Advanced)**: Comprehensive access matrix with regular reviews
+> - **Tier 4 (Expert)**: Enterprise-grade access control with automated provisioning and compliance monitoring
+
 ## Scope
 This policy applies to all:
 - Employees, contractors, and third parties

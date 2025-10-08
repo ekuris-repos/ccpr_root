@@ -3,6 +3,12 @@
 ## Purpose
 Establish comprehensive guidelines for the secure handling, processing, and protection of organizational data throughout its lifecycle.
 
+> **Implementation Note**: This data handling policy represents a comprehensive example for data-sensitive environments. Organizations should adapt the complexity to match their implementation tier and only if data handling requirements apply to their use case:
+> - **Tier 1 (Basic)**: Simple guidance on avoiding sensitive data in prompts
+> - **Tier 2 (Intermediate)**: Data classification with handling guidelines
+> - **Tier 3 (Advanced)**: Formal data governance with protection controls
+> - **Tier 4 (Expert)**: Comprehensive data lifecycle management with automated classification and protection
+
 ## Scope
 This policy applies to all:
 - Employees, contractors, and third parties

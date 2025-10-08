@@ -3,6 +3,12 @@
 ## Purpose
 Establish systematic monitoring and auditing processes for regulatory compliance.
 
+> **Implementation Note**: This compliance monitoring framework represents a comprehensive example for regulated environments. Organizations should adapt the complexity to match their implementation tier and only if compliance monitoring requirements apply to their use case:
+> - **Tier 1 (Basic)**: Manual periodic review of prompt content
+> - **Tier 2 (Intermediate)**: Scheduled compliance checks with documentation
+> - **Tier 3 (Advanced)**: Automated compliance scanning with alerts
+> - **Tier 4 (Expert)**: Comprehensive compliance monitoring with real-time dashboards and automated reporting
+
 ## Framework
 Continuous monitoring approach for maintaining compliance across all regulated activities.
 

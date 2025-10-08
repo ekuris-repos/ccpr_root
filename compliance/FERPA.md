@@ -3,6 +3,12 @@
 ## Overview
 Family Educational Rights and Privacy Act compliance for educational institutions handling student records.
 
+> **Implementation Note**: This FERPA compliance framework is a specialized example for educational institutions. Only implement if your organization is subject to FERPA requirements. Adapt the complexity to match your implementation tier:
+> - **Tier 1 (Basic)**: Simple guidelines to avoid student information in prompts
+> - **Tier 2 (Intermediate)**: FERPA-aware prompt review process
+> - **Tier 3 (Advanced)**: Formal FERPA compliance verification in prompt lifecycle
+> - **Tier 4 (Expert)**: Comprehensive FERPA compliance with automated detection and reporting
+
 ## Scope of Coverage
 - Educational institutions receiving federal funding
 - Student educational records

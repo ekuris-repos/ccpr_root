@@ -1,98 +1,97 @@
 # Review Process
 
-Structured review process to ensure quality, accuracy, and compliance of all prompt library content.
+**This document demonstrates a comprehensive multi-stage review process for enterprise CCPR implementations.** Adapt the review complexity and stages to match your CCPR implementation tier and organizational needs.
 
-## 🔄 Review Stages
+Structured review process to ensure quality, accuracy, and compliance appropriate to your organization's requirements.
 
-### Stage 1: Automated Checks (Immediate)
-**Duration**: < 5 minutes
-**Automated Systems**:
-- Template compliance validation
-- Markdown format verification
-- Required metadata presence
-- Naming convention adherence
-- Basic spell/grammar check
+## 🎯 Important: Review Process by Tier
 
-**Pass Criteria**:
-- All template sections completed
-- Valid markdown formatting
-- Proper file naming
-- Complete metadata
-- No obvious errors
+- **🥉 Tier 1**: Basic template compliance and peer review
+- **🥈 Tier 2**: Add domain expertise validation and basic compliance checks
+- **🥇 Tier 3**: Comprehensive multi-stage review with full compliance validation
+- **🏆 Tier 4**: Advanced review with optimization validation and performance metrics
 
-### Stage 2: Peer Review (24-48 hours)
-**Duration**: 1-2 business days
-**Reviewers**: Content contributors and domain experts
-**Focus Areas**:
-- Content accuracy and relevance
-- Prompt effectiveness
-- Example quality
-- Documentation completeness
-- Integration with existing content
+Choose the review complexity that provides value without creating unnecessary overhead.
 
-**Pass Criteria**:
-- Technically accurate content
-- Clear, testable examples
-- Comprehensive documentation
-- No duplicate functionality
-- Proper categorization
+## 🔄 Example Review Stages (*Implement stages appropriate to your tier*)
 
-### Stage 3: Compliance Review (2-3 days)
-**Duration**: 2-3 business days
-**Reviewers**: Compliance officers and legal team
-**Focus Areas**:
-- Regulatory requirement adherence
-- Data privacy considerations
-- Security implications
-- Access control appropriateness
-- Audit trail completeness
+### Stage 1: Basic Validation (*Required for all tiers*)
+**Duration**: < 5 minutes (can be automated)
+**Focus**:
+- Template compliance validation (*essential for consistency*)
+- Basic format verification (*markdown/documentation standards*)
+- Required metadata presence (*based on your chosen metadata requirements*)
+- Naming convention adherence (*following your chosen conventions*)
 
-**Pass Criteria**:
-- Meets applicable regulations
-- Proper data handling
-- Security best practices
-- Appropriate access controls
-- Complete audit documentation
+**Pass Criteria** (*adapt to your template requirements*):
+- Template sections completed per your tier requirements
+- Valid formatting for your chosen standards
+- Proper file naming per your conventions
+- Complete metadata per your requirements
 
-### Stage 4: Final Approval (1 day)
-**Duration**: 1 business day
-**Reviewers**: Library maintainers
-**Focus Areas**:
-- Overall library consistency
-- Cross-reference accuracy
-- Publication readiness
-- Integration testing
-- Performance validation
+### Stage 2: Quality Review (*Tier 1+ - Essential for quality*)
+**Duration**: 1-2 business days (or appropriate for your organization)
+**Reviewers**: Designated reviewers or domain experts (if available)
+**Focus Areas** (*scale to your needs*):
+- Content accuracy and relevance to your use cases
+- Prompt effectiveness for your intended applications  
+- Example quality appropriate to your standards
+- Documentation completeness per your requirements
 
-**Pass Criteria**:
-- Consistent with library standards
-- All references valid
-- Ready for production use
-- Performance acceptable
-- Quality metrics met
+**Pass Criteria** (*customize to your standards*):
+- Content meets your accuracy standards
+- Examples are clear and relevant to your use cases
+- Documentation supports your users effectively
 
-## 👥 Reviewer Responsibilities
+### Stage 3: Compliance Review (*Only if compliance requirements apply*)
+**Duration**: Appropriate for your compliance needs
+**Reviewers**: Compliance officers, legal team, or designated compliance contacts
+**Focus Areas** (*only implement if required*):
+- Regulatory requirement adherence for applicable frameworks
+- Data privacy considerations relevant to your data handling
+- Security implications appropriate to your environment
+- Access control suitable for your organization
 
-### Peer Reviewers
-- Validate technical accuracy
-- Test prompt effectiveness
-- Review documentation quality
-- Check for duplicates
-- Assess user experience
+**Pass Criteria** (*only implement if compliance is required*):
+- Meets applicable regulations for your industry and geography
+- Proper data handling per your requirements
+- Security best practices appropriate to your environment
+- Access controls suitable for your organization
+- Audit documentation matching your compliance needs
 
-### Compliance Reviewers
-- Verify regulatory compliance
-- Review data handling procedures
-- Assess security implications
-- Validate access controls
-- Ensure audit requirements
+### Stage 4: Final Approval (*Tier 3+ - Comprehensive validation*)
+**Duration**: Appropriate for your organization (typically 1 business day)
+**Reviewers**: Repository maintainers or designated final approvers
+**Focus Areas** (*implement what provides value*):
+- Overall repository consistency
+- Cross-reference accuracy (*if implementing cross-references*)
+- Publication readiness per your standards
+- Integration validation (*if relevant to your setup*)
 
-### Library Maintainers
-- Ensure overall consistency
-- Validate integration
-- Performance testing
-- Final quality assurance
-- Publication coordination
+**Pass Criteria** (*customize to your requirements*):
+- Consistent with your repository standards
+- Ready for use in your environment
+- Meets your quality standards
+
+## 👥 Example Reviewer Responsibilities (*Scale roles to your organization*)
+
+### Basic Reviewers (*All tiers with reviews*)
+- Validate accuracy appropriate to their expertise level
+- Test prompt effectiveness for your use cases
+- Review documentation quality per your standards
+- Check for duplicates in your repository
+
+### Compliance Reviewers (*Only if compliance requirements apply*)
+- Verify regulatory compliance for applicable frameworks
+- Review data handling procedures relevant to your organization
+- Assess security implications for your environment
+- Validate access controls suitable for your setup
+
+### Repository Maintainers (*Tier 2+ - Designated administrators*)
+- Ensure consistency with your chosen standards
+- Validate integration appropriate to your setup
+- Final quality assurance per your requirements
+- Publication coordination suitable for your workflow
 
 ## 📋 Review Criteria
 

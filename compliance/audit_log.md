@@ -3,6 +3,12 @@
 ## Purpose
 Establish comprehensive audit logging standards to ensure accountability, compliance, and security monitoring.
 
+> **Implementation Note**: This audit logging framework represents a comprehensive example for compliance-critical environments. Organizations should adapt the complexity to match their implementation tier and only if audit requirements apply to their use case:
+> - **Tier 1 (Basic)**: Git commit history provides basic audit trail
+> - **Tier 2 (Intermediate)**: Enhanced Git logging with user attribution
+> - **Tier 3 (Advanced)**: Structured audit logs with compliance categorization
+> - **Tier 4 (Expert)**: Comprehensive audit framework with automated compliance reporting
+
 ## Scope
 This framework covers all:
 - System activities and events

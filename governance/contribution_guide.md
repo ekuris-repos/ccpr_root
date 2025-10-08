@@ -1,116 +1,117 @@
 # Contribution Guidelines
 
-Thank you for contributing to the Central Prompt Library! Please follow these guidelines to ensure quality and consistency.
+**This is an example contribution guide demonstrating comprehensive governance.** Adapt the process complexity and requirements to match your CCPR implementation tier and organizational needs.
 
-## 🎯 Before Contributing
+Thank you for contributing to the Central Prompt Library! Please follow guidelines appropriate to your implementation tier.
 
-1. **Search Existing Content**: Check if similar prompts already exist
-2. **Review Standards**: Familiarize yourself with relevant standards in `/standards/`
-3. **Understand Compliance**: Review applicable compliance requirements in `/compliance/`
+## 🎯 Important: Contribution Process by Tier
 
-## 📝 Contribution Process
+- **🥉 Tier 1**: Simple template compliance and basic quality checks
+- **🥈 Tier 2**: Add domain standards and compliance validation
+- **🥇 Tier 3**: Comprehensive review process with expert validation
+- **🏆 Tier 4**: Advanced metrics tracking and optimization validation
 
-### 1. Content Creation
-- Use the template in `/templates/prompt_template.md`
-- Follow naming conventions in `/standards/naming_conventions.md`
-- Include comprehensive metadata and examples
+## 🎯 Before Contributing (*Scale to your complexity level*)
 
-### 2. Quality Checks
-- Test prompts with multiple inputs
-- Verify accuracy and relevance
-- Ensure compliance with applicable standards
-- Validate against existing similar content
+1. **Search Existing Content**: Check if similar prompts already exist (*essential for all tiers*)
+2. **Review Standards**: Familiarize yourself with relevant standards (*implement standards appropriate to your domains*)
+3. **Understand Compliance**: Review applicable compliance requirements (*only implement frameworks required for your organization*)
 
-### 3. Documentation
-- Complete all sections of the prompt template
-- Include clear usage examples
-- Document any dependencies or prerequisites
-- Add appropriate tags and categories
+## 📝 Example Contribution Process (*Adapt complexity to your tier*)
 
-### 4. Submission
-- Create descriptive commit messages
-- Include rationale for new content
-- Reference related issues or requirements
-- Tag appropriate reviewers
+### 1. Content Creation (*Required for all tiers*)
+- Use the template in `/templates/prompt_template.md` (*required for consistency*)
+- Follow naming conventions (*implement conventions that work for your organization*)
+- Include metadata and examples appropriate to your complexity level
 
-## 📋 Content Standards
+### 2. Quality Checks (*Scale to your quality requirements*)
+- **Tier 1**: Basic testing with key inputs and accuracy verification
+- **Tier 2+**: Multiple input testing, standard compliance validation
+- **Tier 3+**: Comprehensive testing and cross-content validation
 
-### Prompt Quality
-- **Clear Instructions**: Unambiguous and specific
-- **Complete Context**: Sufficient background information
-- **Reproducible**: Consistent results across uses
-- **Tested**: Validated with real examples
+### 3. Documentation (*Match your documentation needs*)
+- Complete template sections appropriate to your tier
+- Include usage examples suitable for your user base
+- Document dependencies relevant to your implementation
+- Add tags and categories that support your organization
 
-### Documentation Requirements
-- **Purpose Statement**: Clear explanation of use case
-- **Example Usage**: Multiple input/output examples
-- **Variable Definitions**: Complete parameter documentation
-- **Compliance Notes**: Relevant regulatory considerations
+### 4. Submission (*Use process appropriate to your governance*)
+- Create commit messages suitable for your workflow
+- Include rationale matching your documentation requirements
+- Follow review assignment process appropriate to your organization
 
-### Formatting Standards
-- Use consistent markdown formatting
-- Follow template structure exactly
-- Include proper metadata
-- Use standard terminology
+## 📋 Content Standards (*Adapt requirements to your tier*)
 
-## 🔍 Review Process
+### Prompt Quality (*Essential standards for all tiers*)
+- **Clear Instructions**: Unambiguous and specific (*required for all tiers*)
+- **Complete Context**: Sufficient background information (*scale detail to your needs*)
+- **Reproducible**: Consistent results across uses (*basic requirement*)
+- **Tested**: Validated with examples appropriate to your complexity level
 
-### Initial Review (24-48 hours)
-- Template compliance check
-- Basic quality assessment
-- Category appropriateness
-- Naming convention verification
+### Documentation Requirements (*Scale to your documentation needs*)
+- **Purpose Statement**: Clear explanation of use case (*required for all tiers*)
+- **Example Usage**: Input/output examples appropriate to your tier complexity
+- **Variable Definitions**: Parameter documentation (*Tier 2+ if using variables*)
+- **Compliance Notes**: Regulatory considerations (*only if applicable to your organization*)
 
-### Domain Expert Review (3-5 days)
-- Technical accuracy validation
-- Best practice alignment
-- Compliance requirement verification
-- Integration with existing content
+### Formatting Standards (*Consistency requirements*)
+- Use markdown formatting appropriate to your style guide
+- Follow template structure suitable for your organization
+- Include metadata relevant to your tracking needs
+- Use terminology consistent with your organization
 
-### Final Approval (1-2 days)
-- Overall library consistency
-- Cross-reference validation
-- Metadata completeness
-- Publication preparation
+## 🔍 Example Review Process (*Choose complexity appropriate to your tier*)
 
-## 🚫 Common Rejection Reasons
+### Tier 1 - Basic Review
+- Template compliance check (*essential*)
+- Basic quality assessment (*required*)
+- Ready for use determination
 
-1. **Incomplete Documentation**: Missing required template sections
-2. **Poor Quality**: Vague or untested prompts
-3. **Duplicate Content**: Similar functionality already exists
-4. **Compliance Issues**: Doesn't meet regulatory requirements
-5. **Format Violations**: Doesn't follow template structure
+### Tier 2 - Enhanced Review  
+- Template compliance and quality assessment
+- Domain standard validation (*for applicable domains*)
+- Basic compliance check (*for applicable frameworks*)
 
-## 🆘 Getting Help
+### Tier 3+ - Comprehensive Review
+- **Initial Review (24-48 hours)**: Template compliance, quality, categorization
+- **Domain Expert Review (3-5 days)**: Technical accuracy, best practices, compliance
+- **Final Approval (1-2 days)**: Library consistency, cross-references, publication prep
 
-- Review existing examples in each category
-- Check the FAQ in `governance/faq.md`
-- Consult domain-specific standards
-- Reach out to category maintainers
+*Implement only the review stages that provide value for your organization*
 
-## 📊 Quality Metrics
+## 🚫 Common Issues to Avoid (*Quality guidelines for all tiers*)
 
-We track:
-- Prompt effectiveness (user feedback)
-- Usage frequency
-- Error rates
-- Compliance adherence
-- Documentation completeness
+1. **Incomplete Documentation**: Missing required template sections (*check your tier requirements*)
+2. **Poor Quality**: Vague or untested prompts (*basic quality standard for all tiers*)
+3. **Duplicate Content**: Similar functionality already exists (*check existing content*)
+4. **Compliance Issues**: Doesn't meet applicable regulatory requirements (*only relevant if you have compliance requirements*)
+5. **Format Violations**: Doesn't follow your chosen template structure
 
-## 🏷️ Tagging System
+## 🆘 Getting Help (*Adapt support to your organization*)
 
-Use consistent tags for discoverability:
-- **Domain**: networking, healthcare, finance, etc.
-- **Complexity**: basic, intermediate, advanced
-- **Type**: generation, classification, analysis, etc.
-- **Compliance**: HIPAA, GDPR, SOC2, etc.
+- Review existing examples in relevant categories
+- Check documentation appropriate to your implementation level
+- Consult standards that apply to your domains
+- Reach out to designated reviewers or administrators
 
-## 📈 Continuous Improvement
+## 📊 Quality Metrics (*Implement tracking appropriate to your tier*)
 
-- Regular content audits
-- User feedback incorporation
-- Performance optimization
-- Standard updates
-- Compliance requirement changes
+**Tier 1**: Basic usage and quality feedback
+**Tier 2+**: Enhanced metrics like effectiveness, compliance adherence
+**Tier 3+**: Comprehensive tracking including error rates and optimization data
 
-Thank you for helping build a comprehensive, high-quality prompt library!
+## 🏷️ Example Tagging System (*Implement tags that support your organization*)
+
+Use tags that provide value for your implementation:
+- **Domain**: Include domains relevant to your organization
+- **Complexity**: Use complexity levels that help your users
+- **Type**: Categories that match your prompt organization
+- **Compliance**: Only include frameworks applicable to your industry
+
+## 📈 Continuous Improvement (*Scale to your improvement process*)
+
+- **All Tiers**: User feedback incorporation and basic content updates
+- **Tier 2+**: Regular content audits and standard updates  
+- **Tier 3+**: Performance optimization and comprehensive compliance updates
+
+Thank you for helping build a prompt library appropriate to your organization's needs and complexity level!

@@ -3,6 +3,12 @@
 ## Purpose
 Define clear escalation procedures for prompt library issues, disputes, and decision-making processes to ensure timely resolution and appropriate stakeholder involvement.
 
+> **Implementation Note**: This escalation framework represents a comprehensive example for enterprise environments. Organizations should adapt the structure to match their implementation tier:
+> - **Tier 1 (Basic)**: Simple two-level escalation (team lead → manager)
+> - **Tier 2 (Intermediate)**: Three-level escalation with defined timelines
+> - **Tier 3 (Advanced)**: Formal escalation matrix with documented authorities
+> - **Tier 4 (Expert)**: Comprehensive escalation with automated triggers and cross-functional coordination
+
 ## Scope
 This policy covers all escalation scenarios including:
 - Prompt quality disputes

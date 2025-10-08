@@ -3,6 +3,12 @@
 ## Purpose
 Define comprehensive network security standards to protect organizational network infrastructure and data communications.
 
+> **Implementation Note**: These network security standards represent comprehensive examples for enterprise environments. Organizations should adapt the complexity to match their implementation tier and only if network security requirements apply to their CCPR deployment:
+> - **Tier 1 (Basic)**: Basic network security for cloud-hosted Git repositories
+> - **Tier 2 (Intermediate)**: Standard network protections with access controls
+> - **Tier 3 (Advanced)**: Enterprise network security with segmentation
+> - **Tier 4 (Expert)**: Comprehensive network security architecture with zero-trust principles
+
 ## Network Architecture Standards
 
 ### Network Segmentation

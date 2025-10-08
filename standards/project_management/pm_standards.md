@@ -3,6 +3,12 @@
 ## Purpose
 Establish comprehensive project management standards to ensure consistent, effective project delivery across the organization.
 
+> **Implementation Note**: These project management standards represent comprehensive examples for enterprise project environments. Organizations should adapt the complexity to match their implementation tier and only if formal project management applies to their CCPR implementation:
+> - **Tier 1 (Basic)**: Simple project tracking with basic milestones
+> - **Tier 2 (Intermediate)**: Structured project phases with documentation
+> - **Tier 3 (Advanced)**: Formal project management with governance
+> - **Tier 4 (Expert)**: Comprehensive project management office (PMO) standards with portfolio integration
+
 ## Project Management Framework
 
 ### Project Lifecycle

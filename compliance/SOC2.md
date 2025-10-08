@@ -3,6 +3,12 @@
 ## Overview
 Service Organization Control 2 (SOC 2) compliance framework for service providers storing customer data in the cloud.
 
+> **Implementation Note**: This SOC 2 compliance framework is a specialized example for service organizations. Only implement if your organization requires SOC 2 compliance. Adapt the complexity to match your implementation tier:
+> - **Tier 1 (Basic)**: Basic security controls for prompt management
+> - **Tier 2 (Intermediate)**: SOC 2-aligned controls with documentation
+> - **Tier 3 (Advanced)**: Formal SOC 2 compliance program for prompt systems
+> - **Tier 4 (Expert)**: Comprehensive SOC 2 compliance with automated monitoring and reporting
+
 ## Trust Service Criteria
 
 ### Security

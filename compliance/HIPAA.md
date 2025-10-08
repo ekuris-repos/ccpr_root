@@ -3,6 +3,12 @@
 ## Overview
 Health Insurance Portability and Accountability Act compliance for protected health information (PHI).
 
+> **Implementation Note**: This HIPAA compliance framework is a specialized example for healthcare organizations. Only implement if your organization is subject to HIPAA requirements. Adapt the complexity to match your implementation tier:
+> - **Tier 1 (Basic)**: Simple guidelines to avoid PHI in prompts
+> - **Tier 2 (Intermediate)**: HIPAA-aware prompt review process with PHI detection
+> - **Tier 3 (Advanced)**: Formal HIPAA compliance verification in prompt lifecycle
+> - **Tier 4 (Expert)**: Comprehensive HIPAA compliance with automated PHI detection and breach prevention
+
 ## Covered Entities
 - Healthcare providers
 - Health plans

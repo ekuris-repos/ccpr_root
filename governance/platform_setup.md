@@ -3,6 +3,12 @@
 ## Overview
 This guide provides comprehensive setup instructions for implementing the Central Controlled Prompt Repository (CCPR) across different Git-compatible platforms, enabling organizations to choose the platform that best fits their infrastructure and requirements.
 
+> **Implementation Note**: This platform setup guide represents a comprehensive example for enterprise-grade implementations. Organizations should adapt the complexity and requirements to match their implementation tier:
+> - **Tier 1 (Basic)**: Simple Git repository with basic folder structure
+> - **Tier 2 (Intermediate)**: Hosted Git service with branch protection and basic workflows
+> - **Tier 3 (Advanced)**: Enterprise Git platform with automated workflows and integration
+> - **Tier 4 (Expert)**: Multi-platform federation with comprehensive security and compliance integration
+
 ## Platform Selection Criteria
 
 ### Technical Requirements

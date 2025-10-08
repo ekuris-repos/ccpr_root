@@ -1,7 +1,18 @@
 # GDPR Compliance Framework
 
+## 🎯 Important: Compliance Implementation Guidance
+
+**This document provides comprehensive GDPR guidance as an example of regulatory compliance integration.** 
+
+**Only implement GDPR compliance measures if:**
+- Your organization processes EU personal data
+- Your CCPR system will handle personal data from EU residents
+- Your legal team has determined GDPR applies to your use case
+
+**If GDPR doesn't apply to your organization, you can safely skip this compliance framework.**
+
 ## Overview
-General Data Protection Regulation compliance requirements and implementation guidelines.
+General Data Protection Regulation compliance requirements and implementation guidelines for organizations that process EU personal data through CCPR systems.
 
 ## Key Principles
 1. **Lawfulness, fairness and transparency**
@@ -30,16 +41,18 @@ General Data Protection Regulation compliance requirements and implementation gu
 - Public task
 - Legitimate interests
 
-## Implementation Requirements
+## Implementation Requirements (*Only implement if GDPR applies to your organization*)
 
-### Data Protection Impact Assessment (DPIA)
+**Note**: These are example implementation requirements. Work with your legal and compliance teams to determine which requirements apply to your specific CCPR use case and organizational context.
+
+### Data Protection Impact Assessment (DPIA) (*Implement if required by your legal team*)
 Required when processing is likely to result in high risk to individuals:
 - Systematic and extensive evaluation
 - Large scale processing of special categories
 - Systematic monitoring of public areas
 - New technologies
 
-### Privacy by Design
+### Privacy by Design (*Best practice for any data processing*)
 - Proactive measures
 - Privacy as the default setting
 - Full functionality protection
@@ -47,8 +60,8 @@ Required when processing is likely to result in high risk to individuals:
 - Visibility and transparency
 - Respect for user privacy
 
-### Data Breach Response
-**Timeline**: 72 hours to report to supervisory authority
+### Data Breach Response (*Critical if processing personal data*)
+**Timeline**: 72 hours to report to supervisory authority (*if breach affects EU residents*)
 **Requirements**:
 - Nature of breach
 - Categories and number of data subjects

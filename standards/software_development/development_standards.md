@@ -3,6 +3,12 @@
 ## Purpose
 Establish comprehensive software development standards to ensure code quality, security, maintainability, and team collaboration.
 
+> **Implementation Note**: These software development standards represent comprehensive examples for development environments. Organizations should adapt the complexity to match their implementation tier and only if software development practices apply to their CCPR customization:
+> - **Tier 1 (Basic)**: Simple version control practices for prompt management
+> - **Tier 2 (Intermediate)**: Basic development workflow with code review
+> - **Tier 3 (Advanced)**: Formal development standards with automated testing
+> - **Tier 4 (Expert)**: Comprehensive development lifecycle with continuous integration and deployment
+
 ## Development Lifecycle Standards
 
 ### Software Development Life Cycle (SDLC)
