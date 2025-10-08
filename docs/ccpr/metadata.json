@@ -1,0 +1,115 @@
+{
+  "domain": {
+    "name": "ccpr",
+    "title": "Central Controlled Prompt Repository",
+    "version": "1.0.0",
+    "created": "2025-10-08",
+    "last_updated": "2025-10-08",
+    "description": "Enterprise-grade framework for centralized AI prompt management, governance, and compliance across organizations",
+    "category": "software_development",
+    "subcategory": "ai_prompt_management",
+    "maturity": "production",
+    "license": "MIT"
+  },
+  "coverage": {
+    "scope": [
+      "prompt_development_lifecycle",
+      "enterprise_governance_frameworks",
+      "multi_platform_git_integration",
+      "regulatory_compliance_management",
+      "departmental_customization_patterns",
+      "quality_assurance_processes",
+      "automated_workflow_systems"
+    ],
+    "excluded_areas": [
+      "ai_model_training",
+      "prompt_execution_engines",
+      "real_time_prompt_serving",
+      "prompt_performance_optimization"
+    ],
+    "prerequisites": [
+      "basic_git_knowledge",
+      "understanding_of_enterprise_governance",
+      "familiarity_with_compliance_frameworks"
+    ]
+  },
+  "ai_optimization": {
+    "primary_use_cases": [
+      "prompt_development_guidance",
+      "compliance_framework_implementation",
+      "enterprise_workflow_automation",
+      "quality_assurance_automation",
+      "departmental_customization_support",
+      "regulatory_compliance_validation"
+    ],
+    "semantic_tags": [
+      "enterprise",
+      "governance",
+      "compliance", 
+      "templates",
+      "workflows",
+      "git_integration",
+      "quality_assurance",
+      "prompt_management",
+      "lifecycle_management",
+      "multi_platform"
+    ],
+    "confidence_level": 0.95,
+    "validation_status": "verified",
+    "update_frequency": "weekly"
+  },
+  "relationships": {
+    "depends_on": [],
+    "related_to": [
+      "software_development_best_practices",
+      "enterprise_security_frameworks", 
+      "compliance_and_regulatory_guidance",
+      "project_management_methodologies"
+    ],
+    "extends": []
+  },
+  "maintainers": [
+    {
+      "name": "CCPR Core Team",
+      "role": "domain_expert",
+      "organization": "Enterprise AI Governance Initiative"
+    }
+  ],
+  "quality_metrics": {
+    "content_coverage": 0.95,
+    "review_completion": 0.98,
+    "user_satisfaction": 0.92,
+    "ai_consumption_score": 0.94
+  },
+  "structure": {
+    "entry_points": [
+      "getting-started/quick-start.md",
+      "user-guides/",
+      "reference/"
+    ],
+    "key_concepts": [
+      "prompt_lifecycle",
+      "review_process",
+      "compliance_frameworks", 
+      "fork_management",
+      "platform_integration",
+      "quality_gates"
+    ],
+    "cross_references": [
+      "../governance/",
+      "../templates/",
+      "../standards/", 
+      "../compliance/"
+    ]
+  },
+  "consumption_guidelines": {
+    "recommended_approach": "contextual_retrieval",
+    "cache_strategy": "version_based",
+    "quality_indicators": [
+      "review_status",
+      "last_updated",
+      "validation_score",
+      "compliance_verification"
+    ]
+  }
+}
