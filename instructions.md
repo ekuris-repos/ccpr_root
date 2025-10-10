@@ -21,16 +21,32 @@ The `instructions.md` file provides:
 
 ## Role-Specific Guidelines
 
-**Note**: These are example role definitions and workflows. Customize the complexity to match your implementation tier and organizational needs.
+**Note**: Choose the guidance level that matches your implementation tier.
 
-### Content Creators (*All Tiers*)
+---
+
+## **TIER 1 - SIMPLE APPROACH** *(Start here if you're new or have a small team)*
+
+### Getting Started (Tier 1)
+**Who does what:**
+- **Anyone can create prompts** using the basic template
+- **Team lead reviews** before adding to shared folder
+- **No formal roles needed** - keep it simple
+
+**Simple Workflow:**
+1. **Create** - Use the Tier 1 template sections only
+2. **Test** - Try your prompt with a few examples
+3. **Share** - Add to appropriate category folder
+4. **Review** - Have someone else check it works
+
+**That's it!** No complex processes, no compliance checks, no formal governance.
+
+---
+
+## **TIER 2+ - STRUCTURED APPROACH** *(Add these as you grow)*
+
+### Content Creators (*Tier 2+*)
 **Responsibilities**: Developing, testing, and documenting prompts
-
-**Basic Workflow (Tier 1)**:
-1. **Research Phase** - Review existing prompts in relevant categories
-2. **Development Phase** - Use basic `/templates/prompt_template.md` structure
-3. **Testing Phase** - Test with key scenarios (*add complexity for higher tiers*)
-4. **Documentation Phase** - Complete essential template sections
 
 **Enhanced Workflow (Tier 2+)**:
 - Check compliance requirements in `/compliance/` (*only implement what applies*)
@@ -44,6 +60,8 @@ The `instructions.md` file provides:
 - Test prompts across contexts appropriate to your implementation scope
 
 ### Reviewers (*Tier 2+*)
+**Note**: Tier 1 implementations don't need formal reviewers - just have teammates check each other's work.
+
 **Responsibilities**: Quality assurance, compliance validation, technical accuracy (*scale complexity to your tier*)
 
 **Basic Review Process (Tier 2)**:

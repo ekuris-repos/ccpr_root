@@ -6,10 +6,27 @@ Thank you for contributing to the Central Prompt Library! Please follow guidelin
 
 ## 🎯 Important: Contribution Process by Tier
 
-- **🥉 Tier 1**: Simple template compliance and basic quality checks
+- **🥉 Tier 1**: Use basic template, test it works, add to folder
 - **🥈 Tier 2**: Add domain standards and compliance validation
 - **🥇 Tier 3**: Comprehensive review process with expert validation
 - **🏆 Tier 4**: Advanced metrics tracking and optimization validation
+
+---
+
+## **TIER 1 - SIMPLE CONTRIBUTION** *(No formal process needed)*
+
+### Quick Contribution Steps
+1. **Copy the basic template** (just the Tier 1 sections)
+2. **Fill it out** with your prompt idea
+3. **Test it** with 2-3 examples to make sure it works
+4. **Save it** in the right category folder
+5. **Tell your team** - that's it!
+
+**No reviews, no approvals, no complex processes.** If it helps your team, add it.
+
+---
+
+## **TIER 2+ - STRUCTURED CONTRIBUTION** *(Add process as you grow)*
 
 ## 🎯 Before Contributing (*Scale to your complexity level*)
 

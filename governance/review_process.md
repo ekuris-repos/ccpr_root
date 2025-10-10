@@ -6,10 +6,31 @@ Structured review process to ensure quality, accuracy, and compliance appropriat
 
 ## 🎯 Important: Review Process by Tier
 
-- **🥉 Tier 1**: Basic template compliance and peer review
+- **🥉 Tier 1**: Someone else checks it works - that's enough
 - **🥈 Tier 2**: Add domain expertise validation and basic compliance checks
 - **🥇 Tier 3**: Comprehensive multi-stage review with full compliance validation
 - **🏆 Tier 4**: Advanced review with optimization validation and performance metrics
+
+**Tier 1 Reality**: Don't over-engineer reviews. If your prompt helps your team, it's good enough.
+
+---
+
+## **TIER 1 - SIMPLE REVIEW** *(Peer check is enough)*
+
+### Basic "Review" Process
+1. **Create your prompt** using the basic template
+2. **Test it** with a few examples
+3. **Ask a teammate**: "Does this work for you?"
+4. **If yes**: Add it to the shared folder
+5. **If no**: Fix it and try again
+
+**Duration**: 5-10 minutes  
+**Reviewers**: Anyone on your team  
+**Requirements**: Does it work? Is it helpful?
+
+---
+
+## **TIER 2+ - STRUCTURED REVIEW** *(Add formality as you grow)*
 
 Choose the review complexity that provides value without creating unnecessary overhead.
 

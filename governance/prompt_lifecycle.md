@@ -1,13 +1,34 @@
 # Prompt Lifecycle Management
 
 ## Overview
-This document defines the structured lifecycle management process for all prompts within the Central Code Prompt Repository (CCPR), ensuring quality, compliance, and traceability throughout the prompt development process.
+This document defines lifecycle management for prompts within the CCPR, ensuring quality and traceability appropriate to your implementation tier.
 
-> **Implementation Note**: This lifecycle represents a comprehensive example framework. Organizations should adapt the complexity and requirements to match their implementation tier:
-> - **Tier 1 (Basic)**: Use simplified draft → review → approved stages with basic documentation
-> - **Tier 2 (Intermediate)**: Include formal review processes with documented approvals
+> **Implementation Note**: Choose the lifecycle complexity that matches your organization:
+> - **Tier 1 (Basic)**: Create → Test → Use (no formal stages needed)
+> - **Tier 2 (Intermediate)**: Include basic review and approval tracking
 > - **Tier 3 (Advanced)**: Implement comprehensive quality gates and compliance checks
 > - **Tier 4 (Expert)**: Deploy full enterprise lifecycle with automated monitoring and governance
+
+**Tier 1 Reality Check**: Most small teams don't need formal lifecycle management. If your prompt works, use it. If it stops working, fix it or remove it.
+
+---
+
+## **TIER 1 - SIMPLE LIFECYCLE** *(No formal process needed)*
+
+### How It Works
+1. **Someone creates a prompt** using the basic template
+2. **They test it** with a few examples
+3. **They add it** to the shared folder
+4. **People use it** until it doesn't work anymore
+5. **Someone fixes or removes it** when needed
+
+**Storage**: Just put it in the right category folder  
+**Tracking**: File creation date is enough  
+**Approval**: If it helps your team, it's approved
+
+---
+
+## **TIER 2+ - STRUCTURED LIFECYCLE** *(Add formality as you grow)*
 
 ## Lifecycle Stages
 

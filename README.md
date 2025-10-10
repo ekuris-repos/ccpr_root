@@ -111,13 +111,33 @@ The CCPR is a platform-agnostic, repository-driven system that enables:
 
 ## 🚀 Getting Started
 
+### **⚡ TIER 1 REALITY CHECK** *(Most teams should start here)*
+
+**What you actually need for Tier 1:**
+- A shared folder (Google Drive, SharePoint, Git repo, whatever)
+- Basic folder structure: `prompts/generation/`, `prompts/classification/`, etc.
+- Simple template: Purpose, Category, Date, Prompt text, Example
+- Informal review: "Hey, does this prompt work for you?"
+
+**What you DON'T need for Tier 1:**
+- ❌ Complex governance processes
+- ❌ Formal review committees  
+- ❌ Compliance frameworks (unless legally required)
+- ❌ Multi-stage approvals
+- ❌ Version control expertise
+- ❌ Sophisticated naming conventions
+
+**Bottom line**: If you're spending more time on process than creating useful prompts, you're over-engineering it.
+
+---
+
 ### Choose Your Implementation Tier
 
 **🥉 Tier 1 - Quick Start (Recommended for beginners)**
-1. **Start Simple**: Begin with `/prompts/` and basic `/templates/`
-2. **Core Setup**: Follow `governance/platform_setup.md` for your Git platform
-3. **Basic Governance**: Implement simple review processes
-4. **Essential Compliance**: Address only your required regulatory frameworks
+1. **Start Simple**: Create `/prompts/` folder and use basic template
+2. **No Setup Required**: Just use any Git repository or shared folder
+3. **No Formal Governance**: Simple peer review is enough
+4. **No Compliance Needed**: Skip compliance unless legally required
 
 **🥈 Tier 2 - Growing Organization**
 1. **Add Standards**: Implement relevant `/standards/` for your domains
@@ -136,6 +156,12 @@ The CCPR is a platform-agnostic, repository-driven system that enables:
 2. **Explore Examples**: Browse `prompts/` directory for relevant use cases  
 3. **Check Your Tier**: Review the tier descriptions above to choose your implementation level
 4. **Start Small**: Begin with components that solve immediate problems
+
+### **🚀 Tier 1 - Minimal Setup (5 minutes)**
+1. **Create Structure**: Make folders: `prompts/generation/`, `prompts/classification/`
+2. **Copy Template**: Use the "Tier 1 Basic Template" section from `templates/prompt_template.md`
+3. **Add First Prompt**: Create one prompt using only: Purpose, Category, Last Updated, Prompt text, Example
+4. **Start Using**: That's it! Add more prompts as needed, no other setup required
 
 ### For Content Creators
 1. **Template Usage**: Use `templates/prompt_template.md` for consistency (*all tiers*)

@@ -6,10 +6,37 @@ Standardized naming conventions for consistent organization and discoverability 
 
 ## 🎯 Important: Naming Complexity by Tier
 
-- **🥉 Tier 1**: Use basic file naming and simple category structure
-- **🥈 Tier 2**: Add domain-specific patterns and enhanced metadata
+- **🥉 Tier 1**: Use any clear file names (like `generate_code.md`)
+- **🥈 Tier 2**: Add domain-specific patterns and enhanced metadata  
 - **🥇 Tier 3**: Implement comprehensive tagging and cross-reference systems
 - **🏆 Tier 4**: Add advanced versioning and optimization-focused naming
+
+**Tier 1 Reality Check**: If you're just starting, don't worry about complex naming systems. Use names that make sense to your team.
+
+---
+
+## **TIER 1 - SIMPLE NAMING** *(Good enough to start)*
+
+### Basic File Naming
+```
+{action}_{subject}.md
+```
+Examples: `generate_code.md`, `categorize_ticket.md`, `summarize_meeting.md`
+
+### Basic Folder Structure
+```
+/prompts/
+├── generation/     # Creating content
+├── classification/  # Categorizing things  
+├── summarization/  # Making summaries
+└── other/          # Everything else
+```
+
+**That's it for Tier 1!** No complex metadata, no special tags, no cross-references needed.
+
+---
+
+## **TIER 2+ - STRUCTURED NAMING** *(Add complexity as you grow)*
 
 Choose the naming complexity that supports your organization without creating unnecessary overhead.
 
