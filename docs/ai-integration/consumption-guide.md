@@ -18,7 +18,7 @@ Each knowledge base includes standardized metadata for AI processing:
 {
   "domain": {
     "name": "ccpr",
-    "title": "Central Controlled Prompt Repository",
+    "title": "Central Code Prompt Repository",
     "version": "1.0.0",
     "last_updated": "2025-10-08",
     "description": "Enterprise prompt management and governance framework",

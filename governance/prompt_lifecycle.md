@@ -1,7 +1,7 @@
 # Prompt Lifecycle Management
 
 ## Overview
-This document defines the structured lifecycle management process for all prompts within the Central Controlled Prompt Repository (CCPR), ensuring quality, compliance, and traceability throughout the prompt development process.
+This document defines the structured lifecycle management process for all prompts within the Central Code Prompt Repository (CCPR), ensuring quality, compliance, and traceability throughout the prompt development process.
 
 > **Implementation Note**: This lifecycle represents a comprehensive example framework. Organizations should adapt the complexity and requirements to match their implementation tier:
 > - **Tier 1 (Basic)**: Use simplified draft → review → approved stages with basic documentation

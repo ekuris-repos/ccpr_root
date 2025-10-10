@@ -1,7 +1,7 @@
 # CCPR Platform Setup Guide
 
 ## Overview
-This guide provides comprehensive setup instructions for implementing the Central Controlled Prompt Repository (CCPR) across different Git-compatible platforms, enabling organizations to choose the platform that best fits their infrastructure and requirements.
+This guide provides comprehensive setup instructions for implementing the Central Code Prompt Repository (CCPR) across different Git-compatible platforms, enabling organizations to choose the platform that best fits their infrastructure and requirements.
 
 > **Implementation Note**: This platform setup guide represents a comprehensive example for enterprise-grade implementations. Organizations should adapt the complexity and requirements to match their implementation tier:
 > - **Tier 1 (Basic)**: Simple Git repository with basic folder structure
@@ -250,7 +250,7 @@ Project Settings → Repositories → Security
 # Create group
 Group Name: ccpr-organization
 Visibility Level: Private
-Description: Central Controlled Prompt Repository Organization
+Description: Central Code Prompt Repository Organization
 ```
 
 ```bash
@@ -410,7 +410,7 @@ pipelines:
 # Using AWS CLI
 aws codecommit create-repository \
     --repository-name ccpr_root \
-    --repository-description "Central Controlled Prompt Repository"
+    --repository-description "Central Code Prompt Repository"
 ```
 
 #### 5.2 IAM Policy Configuration

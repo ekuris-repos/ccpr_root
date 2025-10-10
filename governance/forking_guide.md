@@ -1,7 +1,7 @@
 # CCPR Forking and Customization Guide
 
 ## Overview
-This guide provides comprehensive instructions for creating and managing departmental forks of the Central Controlled Prompt Repository (CCPR), enabling teams to define role-specific standards while maintaining enterprise compliance and governance.
+This guide provides comprehensive instructions for creating and managing departmental forks of the Central Code Prompt Repository (CCPR), enabling teams to define role-specific standards while maintaining enterprise compliance and governance.
 
 > **Implementation Note**: This forking strategy represents an advanced example for organizations with multiple departments requiring customized prompt management. Adapt the complexity to match your implementation tier:
 > - **Tier 1 (Basic)**: Single repository with basic folder organization by team

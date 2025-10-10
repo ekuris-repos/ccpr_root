@@ -1,4 +1,4 @@
-# Central Controlled Prompt Repository (CCPR)
+# Central Code Prompt Repository (CCPR)
 
 A comprehensive, Git-based repository system for centralized AI prompt management, governance, and compliance across enterprise environments.
 

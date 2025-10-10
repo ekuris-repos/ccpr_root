@@ -12,7 +12,7 @@ This knowledge base hub is designed for:
 
 ## 📖 Current Knowledge Bases
 
-### CCPR (Central Controlled Prompt Repository)
+### CCPR (Central Code Prompt Repository)
 The foundational knowledge base for prompt management and governance.
 
 #### CCPR Knowledge Base Structure

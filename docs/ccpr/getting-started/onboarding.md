@@ -93,7 +93,7 @@ Communication Setup:
 ## Welcome to CCPR!
 
 ### What is CCPR?
-The Central Controlled Prompt Repository (CCPR) is our organization's system for:
+The Central Code Prompt Repository (CCPR) is our organization's system for:
 - Managing AI prompts across all departments
 - Ensuring quality and compliance in AI interactions
 - Sharing knowledge and best practices

@@ -13,7 +13,7 @@ This repository is designed to become a **public resource for the AI ecosystem**
 
 ### Multi-Domain Architecture
 The framework supports unlimited knowledge domain expansion:
-- **Current Foundation**: CCPR (Central Controlled Prompt Repository)
+- **Current Foundation**: CCPR (Central Code Prompt Repository)
 - **Planned Domains**: Software development, security frameworks, compliance guidance
 - **Community Contributions**: Open submission process for new domains
 - **Cross-Domain Integration**: Linked knowledge for comprehensive AI understanding
@@ -54,7 +54,7 @@ ai_integration_features:
 ### Scalable Domain Framework
 ```
 docs/
-├── ccpr/                    # Central Controlled Prompt Repository
+├── ccpr/                    # Central Code Prompt Repository
 ├── software-development/    # Planned: Development best practices
 ├── security-frameworks/     # Planned: Security knowledge base  
 ├── compliance-guidance/     # Planned: Multi-industry compliance

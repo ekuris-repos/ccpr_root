@@ -2,7 +2,7 @@
 
 ## Welcome Contributors! 🎉
 
-Thank you for your interest in contributing to the Central Controlled Prompt Repository (CCPR). Your contributions help build a valuable shared resource for our organization's AI initiatives.
+Thank you for your interest in contributing to the Central Code Prompt Repository (CCPR). Your contributions help build a valuable shared resource for our organization's AI initiatives.
 
 ## How to Contribute
 

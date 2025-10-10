@@ -1,7 +1,7 @@
 # Administrator Guide
 
 ## Overview
-This guide provides comprehensive instructions for CCPR administrators responsible for system setup, maintenance, user management, and ensuring the overall health and security of the Central Controlled Prompt Repository.
+This guide provides comprehensive instructions for CCPR administrators responsible for system setup, maintenance, user management, and ensuring the overall health and security of the Central Code Prompt Repository.
 
 ## Your Role as an Administrator
 

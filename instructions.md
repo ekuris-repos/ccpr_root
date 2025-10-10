@@ -1,6 +1,6 @@
 # CCPR Instructions
 
-This document serves as a dynamic guide for role-specific practices within the Central Controlled Prompt Repository (CCPR). Teams can iterate on this file to refine response strategies while maintaining version control and accountability.
+This document serves as a dynamic guide for role-specific practices within the Central Code Prompt Repository (CCPR). Teams can iterate on this file to refine response strategies while maintaining version control and accountability.
 
 ## 🎯 Important: Adapt to Your Implementation Tier
 
