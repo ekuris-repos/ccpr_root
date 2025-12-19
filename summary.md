@@ -97,7 +97,7 @@ The repository emphasizes a **start-simple, scale-gradually** approach:
 
 Supports major regulatory frameworks:
 - **Data Protection:** GDPR, HIPAA, FERPA
-- **Financial:** PCI-DSS, SOX
+- **Financial:** PCI-DSS
 - **Security:** SOC2, access policies, audit procedures
 - **Data Handling:** Lifecycle management, retention policies, disposal procedures
 
