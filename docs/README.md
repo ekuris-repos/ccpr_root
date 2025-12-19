@@ -104,10 +104,11 @@ docs/
 ## 🚀 Quick Access for AI Systems
 
 ### CCPR Knowledge Base
-1. [CCPR Quick Start](ccpr/getting-started/quick-start.md) - Get up and running in 5 minutes
-2. [Platform Setup Guide](../governance/platform_setup.md) - Multi-platform deployment
-3. [Prompt Lifecycle](../governance/prompt_lifecycle.md) - Development workflow
-4. [Forking Guide](../governance/forking_guide.md) - Departmental customization
+1. [Available Repositories](../REPOSITORIES.md) - Complete list of accessible repositories in the CCPR ecosystem
+2. [CCPR Quick Start](ccpr/getting-started/quick-start.md) - Get up and running in 5 minutes
+3. [Platform Setup Guide](../governance/platform_setup.md) - Multi-platform deployment
+4. [Prompt Lifecycle](../governance/prompt_lifecycle.md) - Development workflow
+5. [Forking Guide](../governance/forking_guide.md) - Departmental customization
 
 ### AI Integration Points
 - [Platform Integration Guide](ai-integration/platform-integration.md) - ✅ Comprehensive AI platform integration
