@@ -2,7 +2,13 @@
 
 A comprehensive, Git-based repository system for centralized AI prompt management, governance, and compliance across enterprise environments.
 
-## � Important Note: Example Implementation
+## 📚 Quick Links
+
+- **[Available Repositories](REPOSITORIES.md)** - Complete list of accessible repositories and the CCPR ecosystem
+- **[Getting Started](docs/ccpr/getting-started/quick-start.md)** - 5-minute quick start guide
+- **[Instructions](instructions.md)** - Role-specific guidance for using CCPR
+
+## 📌 Important Note: Example Implementation
 
 **All components in this repository are example implementations demonstrating what a mature CCPR system could include.** You don't need to implement everything to get value from CCPR. Choose the components that make sense for your organization and complexity level.
 
